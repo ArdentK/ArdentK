@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+This is me trying to be a software engeneer.
+<iframe src="https://giphy.com/embed/LVWzUCdGioDBe" width="480" height="438" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kumamon-LVWzUCdGioDBe">via GIPHY</a></p>
+
 <!--
 **ArdentK/ArdentK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
