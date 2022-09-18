@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is me trying to be a software engeneer.
+This is me trying to be a software engineer.
 
 ![ME](73R3.gif)
 
